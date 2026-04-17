@@ -51,6 +51,7 @@
 - Preserve public APIs unless the task explicitly requests an API change.
 - Favor explicitness over cleverness.
 - Keep functions and modules focused with no hidden side effects.
+- Only add comments that explain **why** (intent, gotchas, non-obvious constraints). Do not add comments that restate **what** the code does — the code should speak for itself.
 
 ### Communication style
 
